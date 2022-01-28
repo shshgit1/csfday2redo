@@ -1,0 +1,16 @@
+<h1>Cart list</h1>
+<table border=3>
+<tr *ngFor="let i of cartlist|keyvalue">
+  <td>
+  {{i.value.description}},
+  </td>
+  <td>
+  Quantity:{{i.value.quantity}},</td>
+  <td>
+  <img src={{i.value.image}} height="200" width="auto">
+  </td><td>
+    <button (click)="removecart(i.value.description)">Remove</button>
+</td>
+</tr>
+
+</table>

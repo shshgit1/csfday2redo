@@ -1,0 +1,19 @@
+<h1>Please select</h1>
+
+<table border=3>
+
+<tr *ngFor="let i of itemMap |keyvalue">
+  <td>
+    {{i.value.description}},
+  </td>
+  <td>
+    <img src={{i.value.image}} height="200" width="auto">
+    </td>
+    <td>
+  <button (click)="addcart(i.value.description)">Add to cart</button>
+</td>
+</tr>
+
+<br><br><br>
+</table>
+<app-cart [cartlist] = "itemMap"></app-cart>
