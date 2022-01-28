@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1643353750240,
+  "timestamp": 1643354067761,
   "index": "/csfday2redo/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/csfday2redo/favicon.ico",
         "/csfday2redo/index.html",
-        "/csfday2redo/main.2df95f53e8475cbd.js",
+        "/csfday2redo/main.f6b2fb9592c60817.js",
         "/csfday2redo/manifest.webmanifest",
         "/csfday2redo/polyfills.94052740a0a6db0a.js",
         "/csfday2redo/runtime.423cfbb11bf67019.js",
@@ -58,8 +58,8 @@
     "/csfday2redo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/csfday2redo/assets/orange.JPG": "8282a159617ec6036eff30cea36dd5cff4e10ef8",
     "/csfday2redo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/csfday2redo/index.html": "83e495f3ed67cd7124e1ff88e318f43024e44521",
-    "/csfday2redo/main.2df95f53e8475cbd.js": "994cc66cdba8492bd5ec21a1962f550195141292",
+    "/csfday2redo/index.html": "a85075145a325a78af7182fa22940f5dd56dda9a",
+    "/csfday2redo/main.f6b2fb9592c60817.js": "b8523bdec0c5e768a383824d21deb95a2a99d500",
     "/csfday2redo/manifest.webmanifest": "84498c92968483eb90d0ed60e3d1ec24766adff2",
     "/csfday2redo/polyfills.94052740a0a6db0a.js": "1ad1b394f2ad29caec0c2b7e9466b4755c742827",
     "/csfday2redo/runtime.423cfbb11bf67019.js": "5aedc8c942a4fce4d00577918aa892215dbb0885",
